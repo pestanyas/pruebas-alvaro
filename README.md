@@ -1,6 +1,6 @@
 #Documentación
 
-> Álvaro Fernández Reina
+> ÁLVARO FERNÁNDEZ REINA
 > 11 Mayo 2026
 > IES "Inca Garcilaso"
 
